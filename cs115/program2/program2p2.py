@@ -259,4 +259,6 @@ def is_between(p1, p2, p3):
 		retval = True
 		
 	return retval
-main()
+
+if __name__ == '__main__':
+	main()
