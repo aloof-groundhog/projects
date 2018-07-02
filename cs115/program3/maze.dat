@@ -1,0 +1,7 @@
+0,front of entrance, 1:2:4:5, torch:bag
+1,back of entrance, 0:2:3:6, a gold piece:sword
+2,round room, 1:0:4, gem
+3,bat cave, 4:5:6, food ration:water flask
+4,library, 1:2, book:scroll
+5,dark pit, 3:0, water bucket
+6,exit, 3:1, 5 gold pieces
