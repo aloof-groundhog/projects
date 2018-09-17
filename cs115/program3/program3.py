@@ -81,7 +81,7 @@ def main():
 			_quit = True
 	if "key of programming" in inventory and magic_words is True and _quit is True:
 		print("You won the game! You win 50000 gold pieces!\n\n")
-		print("Congratulations, Dexter you made it through alive")
+		print("Congratulations,", name, "you made it through alive")
 		print("you left through the exit!")
 		display(inventory, "You left the game with")
 		
